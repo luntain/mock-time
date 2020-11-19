@@ -1,4 +1,4 @@
 # mock-time
 
-Allows to mock out Data.Time.getCurrentTime and Control.Concrurent.threadDelay
-
+This repository was merged into error-or-bundle. Please go to
+https://github.com/luntain/error-or-bundle
